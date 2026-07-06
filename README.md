@@ -11,10 +11,10 @@
 | | |
 |---|---|
 | **Candidate** | Yeshwanth Balaji |
-| **Email** | balaji.y@northeastern.edu |
+| **Email** | yeshwanthbalaji.dev@gmail.com |
 | **GitHub** | [@YeshwanthBalaji0412](https://github.com/YeshwanthBalaji0412) |
 | **LinkedIn** | [in/yeshwanthbalaji](https://www.linkedin.com/in/yeshwanthbalaji) |
-| **🎥 Video walkthrough** | **[ADD YOUR VIDEO LINK HERE]** |
+| **🎥 Video walkthrough** | **https://youtu.be/cjQGWK2Zyas** |
 | **🌐 Live demo (no setup)** | **https://yeshwanthbalaji-sage-compliance-assistant.hf.space** |
 | **💻 This repository** | https://github.com/YeshwanthBalaji0412/SAGE-DEMO |
 | **📊 Application deck** | [`HqO_Applied_Engineer.pptx`](./HqO_Applied_Engineer.pptx) |
