@@ -92,8 +92,8 @@ Structured, cited answer
 - **RAG:** ChromaDB vector store, hybrid retrieval, query expansion
 - **Guardrails:** injection detection, citation verification, grounding refusal
 
-**Building *with* AI (Claude + Cursor as core dev tools)**
-- I used **Claude and Cursor** throughout — the LangGraph agent scaffolding and the 40+ injection-detection patterns came together in a fraction of the time.
+**Building *with* AI (Claude as a core dev tool)**
+- I used **Claude** throughout — the LangGraph agent scaffolding and the 40+ injection-detection patterns came together in a fraction of the time.
 - **Where it hit limits, and how I adapted:**
   1. Claude *over-generated* regex patterns that caused false positives — I pulled them back and validated against adversarial samples.
   2. The model didn't *reliably* follow the exact citation format the downstream parser expected — which is precisely **why I stopped trusting the output and built the deterministic `CitationVerifier`** instead of relying on the LLM's self-report.
