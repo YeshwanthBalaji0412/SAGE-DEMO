@@ -213,4 +213,4 @@ HqO_Applied_Engineer.pptx
 
 ---
 
-*Built by Yeshwanth Balaji · [balaji.y@northeastern.edu](mailto:balaji.y@northeastern.edu)*
+*Built by Yeshwanth Balaji · [yeshwanthbalaji.dev@gmail.com](mailto:yeshwanthbalaji.dev@gmail.com)*
